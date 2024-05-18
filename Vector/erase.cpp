@@ -22,3 +22,4 @@ int main ()
 
   return 0;
 }
+//myvector contains: 4 5 7 8 9 10
